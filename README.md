@@ -54,8 +54,6 @@
 <a href="https://linkedin.com/in/ali-ihsan-şen-b28093126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-ihsan-şen" height="30" width="40" /></a>
 <a href="mailto:av.aliihsansen@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="Ali İhsan Şen" height="50" width="50" /></a>
 <a href="https://app.patika.dev/ihsansen" target="blank" rel=”noopener”><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="30" width="40" /></a>
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[github]:https://github.com/FatihKamilAltun
 
 
 
