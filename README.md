@@ -1,6 +1,6 @@
-  <h2 align="center">
-  Hi! Welcome to My Github Profile 👋
-  </h2>
+
+  ## Hi! Welcome to My Github Profile 👋
+
   
   <h1 align="center">
      <a href="https://git.io/typing-svg">
