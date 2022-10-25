@@ -43,7 +43,7 @@
 
 
 
-                <img src="walking-code.gif" width="auto">   ![AliihsanSen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliihsanSen&theme=dark&show_icons=true)
+<img src="walking-code.gif" width="auto">   ![AliihsanSen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliihsanSen&theme=dark&show_icons=true)
 
 
 
