@@ -60,8 +60,6 @@
 <a href="https://app.patika.dev/ihsansen" target="blank" rel=”noopener”><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="30" width="40" /></a>
 <a href="https://discord.com/channels/1013731580742750269" target="_blank" rel=”noopener”> <img align ="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="40" height="40"/> </a>
 
-
-
   <p align="center"> 
   Visitor count<br>
    <img src="https://profile-counter.glitch.me/AliihsanSen/count.svg" />
