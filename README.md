@@ -1,12 +1,11 @@
 
 <h3 align="center"> Hi! Welcome to My Github Profile 👋 </h3>
 
-  
  <p align="center">
      <a href="https://git.io/typing-svg">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Automation+Engineer!;Ali+%C4%B0hsan+%C5%9Een" alt="Typing SVG" /></a>
   </p>
-
+  
 - 🔭 I’m Full Stack Automation Engineer                                                                            
 - 🌱 I'm working on a project with framework TestNG and Cucumber
 - 💪 2022 goals : To bring out quality projects.
