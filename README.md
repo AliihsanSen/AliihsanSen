@@ -52,7 +52,6 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif)
 
 
-
 ### 🌐 Socials:
 <a href="https://instagram.com/ali.ihsansen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali.ihsansen/" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/ali-ihsan-sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-ihsan-şen" height="30" width="40" /></a>
