@@ -40,10 +40,12 @@
 
 
 ### 💻 IDE:
-![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Intellij-IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
-)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-IntellijIdea-informational?style=flat&logo=intellijidea&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=green)
+![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=purple)
+
 
 
 
