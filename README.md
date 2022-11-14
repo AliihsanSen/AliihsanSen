@@ -10,7 +10,7 @@
 - 🌱 I'm working on a project with framework TestNG and Cucumber
 - 💪 2022 goals : To bring out quality projects.
 - ⚡ Fun fact : I love coding 💻, writing blog 🖋️, football ⚽ and playing guitar 🎸. 
-- ⏲ What we are doing now : i am writing code 🚀.                                                                                                                           
+- ⏲ What we are doing now : i am writing code 🚀.                                                                                                                                                                        
 
 ### 🚀 Skills:
 
