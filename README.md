@@ -1,10 +1,10 @@
+<div align="center">
+ <h1> <img src="https://gprm.itsvg.in/logo.png" width="80px"><br/>Welcome to my GitHub profile where we share our codes to have fun and learn together.</h1>
 
-<h3 align="center"> Hi! Welcome to My Github Profile 👋 </h3>
 
- <p align="center">
-     <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Automation+Engineer!;Ali+%C4%B0hsan+%C5%9Een" alt="Typing SVG" /></a>
-  </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Automation%20Engineer;Ali%20İhsan%20Şen;&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+</p>
   
 - 🔭 I’m Full Stack Automation Engineer                                                                            
 - 🌱 I'm working on a project with framework TestNG and Cucumber
@@ -46,9 +46,6 @@
 ![](https://img.shields.io/badge/Editor-Jira-informational?style=flat&logo=Jira&logoColor=white&color=peach)
 ![](https://img.shields.io/badge/API-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=purple)
-
-
-
 
 
 <img src="walking-code.gif" width="auto">   ![AliihsanSen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliihsanSen&theme=dark&show_icons=true)
