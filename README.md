@@ -62,6 +62,6 @@
 <a href="https://discord.com/channels/1013731580742750269" target="_blank" rel=”noopener”> <img align ="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="40" height="40"/> </a>
 
   <p align="center"> 
-  Visitor count: <br>
+  <h1> Visitor count: <br>
    <img src="https://profile-counter.glitch.me/AliihsanSen/count.svg" />
-</p>
+</p> </h1>
